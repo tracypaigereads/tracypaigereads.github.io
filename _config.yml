@@ -6,6 +6,10 @@ url: "tracypaigereads.github.io"
 favicon: icon.jpg
 show_excerpts: false # set to true to show excerpts on the homepage
 
+# Build settings
+#theme: moving
+remote_theme: huangyz0918/moving
+
 moving:
   avatar_url: profile.jpg
   about_you: university student, coder, reader
@@ -33,10 +37,6 @@ moving:
     #   instance:
     # - username:
     #   instance:
-
-# Build settings
-#theme: moving
-remote_theme: huangyz0918/moving
 
 plugins:
   - jekyll-feed
