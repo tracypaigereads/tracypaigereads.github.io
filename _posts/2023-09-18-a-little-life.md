@@ -9,6 +9,10 @@ categories: book_review
 
 <br>
 
+<font color="#8B0000"> *spoilers ahead* </font>
+
+<br>
+
 *A Little Life* tells the story of the post-college lives of four friends — Jude, Willem, Malcolm, and JB — as they emerge into their adult lives and navigate success in New York. Jude is a gifted litigator, Willem is an actor, Malcolm works in architecture, and JB is a highly ambitious and talented artist.
 
 The novel contains themes such as privilege, race, and sexuality, though its heartbeat rests in its daring exploration of Jude’s traumas and how their irreversible effects continually infiltrate and redefine his relationships. Naturally, as the most reserved of the four, Jude is a complex character, equally as interesting as he is frustrating. With a past initially shrouded with mystery, his desire to be accepted by others contradicts his inability to open up about his past, along with his sometimes reluctant participation in friendships. While determined to relegate his traumas to his past, Jude’s constant impulses to cut himself and his deprecating self esteem disallow him from fully letting go of his childhood angers and griefs.
