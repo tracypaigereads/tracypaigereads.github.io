@@ -2,7 +2,7 @@
 layout: about
 ---
 
-welcome to this digital space where i can share thoughts on my favorite reads, including analysis and favorite quotes!
+welcome to this digital space where i can share thoughts and analysis on my favorite reads!
 
 ### coming soon
 
