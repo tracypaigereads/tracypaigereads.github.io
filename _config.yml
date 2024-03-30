@@ -1,1 +1,19 @@
+title: tracy paige's digital journal
+author: tracy paige
+email: tracypaigewrites@gmail.com
+description: thoughts on my favorite reads
+url: "tracypaigereads.github.io"
+
+# build settings
 remote_theme: huangyz0918/moving
+plugins:
+  - jekyll-feed
+
+moving:
+  about_you: university student who codes and reads
+  avatar_url: profile.jpg
+  date_format: "%b %d"
+  back_to: "entries"
+  social_links:
+    # github: tracypaigereads
+    # facebook: none
