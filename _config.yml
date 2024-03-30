@@ -1,0 +1,42 @@
+title: tracy paige's digital journal
+author: tracy paige
+email: tracypaigewrites@gmail.com
+description: thoughts on my favorite reads
+url: "tracypaigereads.github.io"
+favicon: icon.jpg
+show_excerpts: false # set to true to show excerpts on the homepage
+
+moving:
+  avatar_url: profile.jpg
+  about_you: university student, coder, reader
+  date_format: "%b %d" # date format of posts in home page
+  back_to: "entries"
+
+  # generate social links in about page.
+  social_links:
+    # twitter:
+    # dribbble:
+    # flickr:
+    # instagram:
+    # pinterest:
+    # youtube:
+    # youtube_channel:
+    # youtube_channel_name:
+    # telegram:
+    # googleplus:
+    # microdotblog:
+    # reddit:
+
+    # Mastodon instances
+    # mastodon:
+    # - username:
+    #   instance:
+    # - username:
+    #   instance:
+
+# Build settings
+theme: huangyz0918/moving #moving
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
