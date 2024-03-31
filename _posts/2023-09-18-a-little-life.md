@@ -5,7 +5,7 @@ author: "hanya yanagihara"
 categories: book_review
 ---
 
-![](https://images1.penguinrandomhouse.com/cover/9780804172707)
+<img src="\docs\assets\img\a_little_life.jpg" height="400">
 
 <br>
 
