@@ -27,4 +27,4 @@ One trap that Black does not fall into is creating characters that can be easily
 
 Another strength of the storytelling rests in Black’s spinoff content and bonus materials. *The Lost Sisters* and *How the King of Elfhame Learned to Hate Stories* are novellas told in Taryn and Cardan’s perspectives respectively, and they each add a layer of complexity to the existing story. Bonus content, such as Cardan’s letters to Jude during her exile, support the story’s continuity during time skips between and within the individual novels. Recently, a spinoff duology centering on Oak, Jude’s younger brother, has been released; these two novels were just as entertaining to read and offer a new perspective to Black’s world of faerie.
 
-I have yet to read a YA fantasy series that surpasses the quality of *The Folk of the Air*, and I would be surprised if I found one that did. I look forward to reading whatever Holly Black puts out next!
+I have yet to read a YA fantasy series that surpasses the quality of *The Folk of the Air*, and would be surprised if I found one that did. I look forward to reading whatever Holly Black puts out next!
