@@ -5,7 +5,7 @@ author: "hanya yanagihara"
 categories: book_review
 ---
 
-<img src="\docs\assets\img\a_little_life.jpg" width="230" max-width="50%" max-height="50%">
+<img src="\img\a_little_life.jpg" width="230" max-width="50%" max-height="50%">
 
 <br>
 

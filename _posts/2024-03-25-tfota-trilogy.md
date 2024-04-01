@@ -5,7 +5,7 @@ author: "holly black"
 categories: book_review
 ---
 
-<img src="\docs\assets\img\tfota.jpg" width="600" max-width="50%" max-height="50%">
+<img src="\img\tfota.jpg" width="600" max-width="50%" max-height="50%">
 
 <br>
 
