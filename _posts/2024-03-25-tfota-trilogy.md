@@ -2,7 +2,7 @@
 layout: post
 title: "the folk of the air trilogy"
 author: "holly black"
-categories: book_review
+categories: bookreview
 ---
 
 <img src="\img\tfota.jpg" width="600" max-width="50%" max-height="50%">
@@ -19,7 +19,7 @@ categories: book_review
 2. *The Wicked King*
 3. *The Queen of Nothing*
 
-I have to preface with the following context: I was a preteen during the golden age of YA fantasy/sci-fi — some of my favorite series were *The Hunger Games*, *Maximum Ride*, and *The Mortal Instruments*. While I’ve (mostly) grown out of this phase, I have occasionally picked up a few YA fantasy novels published within the past couple of years out of curiosity, but mostly because I see them trending all over BookTok and want to see if they're worth the hype. I don’t think I’m unique in thinking that they just aren’t as great as they used to be. In fact, all the ones I’ve read feel eerily similar to each other; the problem with writing under the construct of popular tropes rather than creating a framework for an original story really defeats the purpose of writing fantasy: to transport readers into an interesting world where character arcs are unpredictable and character relationships are heavily nuanced in context with the world-building.
+I have to preface with the following context: I was a preteen during the golden age of YA fantasy/sci-fi — some of my favorite series were *The Hunger Games*, *Maximum Ride*, and *The Mortal Instruments*. While I’ve (mostly) grown out of this phase, I have occasionally picked up a few YA fantasy novels published within the past couple of years out of curiosity, but mostly because I see them trending all over BookTok and want to see if they're worth the hype. I don’t think I’m unique in thinking that they just aren’t as great as they used to be. In fact, all the ones I’ve read feel eerily similar to each other; the problem is that writing under the construct of popular tropes rather than creating a framework for an original story really defeats the purpose of writing fantasy: to transport readers into an interesting world where character arcs are unpredictable and character relationships are heavily nuanced in context with the world-building.
 
 When I first read *The Folk of the Air* a few years ago, I was not only astounded by how unique and fun the story was, but also how smart the plot twists were and how carefully each character was written — it does not contain the faults of other recently trending YA fantasy releases. Even now, having just reread the trilogy, I can confirm that despite knowing the twists and turns beforehand, my reading experience was just as immersive and addicting as it was before, if not more so. The primary reason for this is how Black never gives more information than is necessary. She keeps the reader toeing the line between knowing and guessing, regarding them as an active participant in the story as opposed to a set of eyes merely looking in. The politics of Elfhame are simple to understand because Black deftly weaves these details within character desires and descriptions. There are no blatant moments of info-dumping: to read a Holly Black story is to put on a blindfold, take her hand, and trust that when you take off the blindfold, you will end up somewhere beautiful.
 
