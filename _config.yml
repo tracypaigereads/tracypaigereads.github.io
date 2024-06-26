@@ -1,7 +1,7 @@
 title: tracy paige's digital journal
 author: tracy paige
 email: tracypaigewrites@gmail.com
-description: thoughts on my favorite reads
+description: my favorite reads ⸙
 url: "https://tracypaigereads.github.io"
 favicon: img/icon.jpg
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -12,7 +12,7 @@ remote_theme: huangyz0918/moving
 
 moving:
   avatar_url: img/profile.jpg
-  about_you: university student, coder, reader, writer
+  about_you: coder, reader, writer
   date_format: "%b %d" # date format of posts in home page
   back_to: "entries"
 

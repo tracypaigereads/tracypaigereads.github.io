@@ -2,7 +2,7 @@
 layout: post
 title: "a little life"
 author: "hanya yanagihara"
-categories: book_review
+categories: bookreview
 ---
 
 <img src="\img\a_little_life.jpg" width="230" max-width="50%" max-height="50%">
@@ -13,7 +13,7 @@ categories: book_review
 
 <br>
 
-*A Little Life* tells the story of the post-college lives of four friends — Jude, Willem, Malcolm, and JB — as they emerge into their adult lives and navigate success in New York. Jude is a gifted litigator, Willem is an actor, Malcolm works in architecture, and JB is a highly ambitious and talented artist.
+*A Little Life* tells the story of the post-college lives of four friends—Jude, Willem, Malcolm, and JB—as they emerge into their adult lives and navigate success in New York. Jude is a gifted litigator, Willem is an actor, Malcolm works in architecture, and JB is a highly ambitious and talented artist.
 
 The novel contains themes such as privilege, race, and sexuality, though its heartbeat rests in its daring exploration of Jude’s traumas and how their irreversible effects continually infiltrate and redefine his relationships. Naturally, as the most reserved of the four, Jude is a complex character, equally as interesting as he is frustrating. With a past initially shrouded with mystery, his desire to be accepted by others contradicts his inability to open up about his past, along with his sometimes reluctant participation in friendships. While determined to relegate his traumas to his past, Jude’s constant impulses to cut himself and his deprecating self esteem disallow him from fully letting go of his childhood angers and griefs.
 
@@ -22,9 +22,9 @@ The novel contains themes such as privilege, race, and sexuality, though its hea
 
 <br>
 
-The sympathy I felt for Jude was largely due to the way Yanagahira writes: there is such a beautiful, suspending quality to her prose, almost as if time ceases to exist, and all the events throughout Jude’s life occur and affect him all at once. At any point in the novel, I couldn’t help but fear for him, especially since I couldn’t see a feasible route for his recovery. The deeper I got into the novel, the more it felt like I’d jumped from a cliff and was falling, waiting to hit the ground, because for Jude, what comes up must eventually come back down. Every positive moment portends a negative one.
+The sympathy I felt for Jude was largely due to the way Yanagihara writes: there is such a beautiful, suspending quality to her prose, almost as if time ceases to exist, and all the events throughout Jude’s life occur and affect him all at once. At any point in the novel, I couldn’t help but fear for him, especially since I couldn’t see a feasible route for his recovery. The deeper I got into the novel, the more it felt like I’d jumped from a cliff and was falling, waiting to hit the ground, because for Jude, what comes up must eventually come back down. Every positive moment portends a negative one.
 
-Reading about Jude’s moments of joy, especially the part where Harold and Julia adopt him, felt like a gradual farewell to his character. His temporary happiness was flimsy, much like my own hopes for him to get better. The story begins and ends on Lispenard Street, paralleling the way Jude’s life begins and ends in immense pain.
+Reading about Jude’s moments of joy, especially the part where Harold and Julia adopt him, felt like a gradual farewell to his character. His happiness was flimsy, much like my own hopes for him to get better. The story begins and ends on Lispenard Street, paralleling the way Jude’s life begins and ends in immense pain.
 
 <br>
 > <font color="#738276"> “Life is so sad, he would think in those moments. It’s so sad, and yet we all do it. We all cling to it; we all search for something to give us solace.”</font>
