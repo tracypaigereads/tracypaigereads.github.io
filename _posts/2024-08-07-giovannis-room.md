@@ -17,7 +17,7 @@ For a political science course I took in college, I watched a documentary, *I Am
 
 *Giovanni’s Room* is the first novel I’ve read from Baldwin, and it certainly will not be my last. He has such a unique ability of translating emotions into tangible places, such that simple movements, such as walking or driving from one destination to another, add integral context to his characters’ development. Baldwin’s writing traps you within these places; each chapter felt like a slow exhale from holding a deep and painful breath.
 
-The premise of the novel is simple: David, an American expatriate living in Paris, meets a bartender named Giovanni and falls for him. However, due to his internalized homophobia and pressures to conform to masculine norms, he disallows himself from pursuing a long term relationship with him. Eventually, his rejection of Giovanni spurs events that lead to Giovanni’s execution.
+The premise of the novel is simple: David, an American expatriate living in Paris, meets a bartender named Giovanni and falls for him. However, due to his internalized homophobia and pressures to conform to masculine norms, he disallows himself from pursuing a permanent relationship with him. Eventually, his rejection of Giovanni spurs events that lead to Giovanni’s execution.
 
 <br>
 > <font color="#9F6934">“Then, perhaps, life only offers the choice of remembering the garden or forgetting it. Either, or: it takes strength to remember, it takes another kind of strength to forget it, it takes a hero to do both.”</font>
