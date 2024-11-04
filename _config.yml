@@ -12,7 +12,7 @@ remote_theme: huangyz0918/moving
 
 moving:
   avatar_url: img/profile.jpg
-  about_you: coder, reader, writer
+  about_you: reader, writer
   date_format: "%b %d" # date format of posts in home page
   back_to: "entries"
 
