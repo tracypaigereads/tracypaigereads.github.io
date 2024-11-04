@@ -37,6 +37,17 @@
     > [Github]</a
     >
   </li>
+  {%- endif -%} {%- if social.goodreads -%}
+  <li>
+    <a
+      class="black-link"
+      href="https://www.goodreads.com/user/show/{{
+        social.goodreads | cgi_escape | escape
+      }}"
+      style="color:#5F9EA0"
+      >[goodreads]</a
+    >
+  </li>
   {%- endif -%} {%- if social.instagram -%}
   <li>
     <a
@@ -44,7 +55,8 @@
       href="https://www.instagram.com/{{
         social.instagram | cgi_escape | escape
       }}"
-      >[Instagram]</a
+      style="color:#5F9EA0"
+      >[instagram]</a
     >
   </li>
   {%- endif -%} {%- if social.linkedin -%}
